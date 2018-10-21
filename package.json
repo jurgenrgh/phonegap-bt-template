@@ -1,0 +1,16 @@
+{
+  "name": "phonegap-bt-template",
+  "version": "1.0.0",
+  "description": "This is gives boilerplate app using materialize, jQuery, material fonts, bluetooth plugin.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jurgenrgh/phonegap-bt-template"
+  },
+  "main": "index.js",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova:template"
+  ],
+  "author": "Jürgen Rennenkampff",
+  "license": "Apache-2.0"
+}
